@@ -3,3 +3,14 @@
 *{
     font-family: 'Freehand', cursive;
 }
+
+.footer{
+    background-color: #DBF6F2;
+    padding: 1%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.contacts, .text-center{
+    font-weight: bold;
+}
