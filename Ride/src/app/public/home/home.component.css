@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
+
+
+h1{
+    font-family: 'Freehand', cursive;
+    text-align: center;
+    font-size: 10vh;
+}
+h1 span{
+    color: #1c6d3a;
+}
