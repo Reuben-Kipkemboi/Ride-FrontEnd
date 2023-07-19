@@ -9,3 +9,10 @@ h1{
 h1 span{
     color: #1c6d3a;
 }
+.row-one{
+    margin-top: 5%;
+}
+.image-class image{
+    width: 30vw;
+    height: 30vh;
+}
