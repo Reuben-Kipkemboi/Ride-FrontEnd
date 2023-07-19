@@ -12,7 +12,14 @@ h1 span{
 .row-one{
     margin-top: 5%;
 }
-.image-class image{
+.image-class img{
+    margin-left: -30%;
+    height: 50vh;
     width: 30vw;
-    height: 30vh;
+    object-fit: cover;
+}
+#green-car{
+    width: 80vw;
+    /* height: 100vh; */
+    object-fit: cover;
 }
