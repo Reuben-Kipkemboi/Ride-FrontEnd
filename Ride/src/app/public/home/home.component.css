@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
 
+/* Roboto slab */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 body{
     background-color:#e9f9e7;
 }
-.container-fluid{
-    /* height: 200vh; */
-    
-}
+
 h1{
     font-family: 'Freehand', cursive;
     text-align: center;
@@ -64,3 +64,17 @@ h1 span{
     object-fit: cover;
     border: 2px solid #1c6d3a;
 }
+
+
+#request-button button{
+    color: #ffffff;
+    background-color: #1A4204;
+    margin-bottom: 3%;
+    padding: 8px, 2px ;
+    box-shadow: 0 19px 38px 0 rgba(0, 0, 0, 0.5);
+    font-family: 'Roboto Slab', serif;
+    font-size: 2vh;
+
+
+}
+ 
