@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
 
+body{
+    background-color:#e9f9e7;
+}
 .container-fluid{
-    height: 200vh;
+    /* height: 200vh; */
+    
 }
 h1{
     font-family: 'Freehand', cursive;
@@ -43,4 +47,20 @@ h1 span{
     width: 80vw;
     height: 100vh;
     object-fit: cover;
+}
+
+.small-image{
+    width: 11.5vw;
+    height: 20vh;
+    overflow: hidden;
+    margin-top: -8%;
+    margin-left: 2%;
+}
+
+.small-image img{
+    width: 100%; 
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #1c6d3a;
 }
