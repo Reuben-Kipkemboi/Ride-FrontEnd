@@ -3,21 +3,24 @@
 /* Roboto slab */
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
 
-body{
-    background-color:#e9f9e7;
+body {
+  background-color: #e9f9e7;
 }
 
-h1{
-    font-family: 'Freehand', cursive;
-    text-align: center;
-    font-size: 10vh;
+h1 {
+  font-family: 'Freehand', cursive;
+  text-align: center;
+  font-size: 10vh;
 }
-h1 span{
-    color: #1c6d3a;
+
+h1 span {
+  color: #1c6d3a;
 }
-.row-one{
-    margin-top: 5%;
+
+.row-one {
+  margin-top: 5%;
 }
+
 /* .image-class{
     display: flex;
     align-items: center;
@@ -26,55 +29,85 @@ h1 span{
 } */
 
 
-.image-class{
-    position: relative;
+.image-class {
+  position: relative;
 }
-.image-class img{
-    position: absolute;
-    margin-left: -25%;
-    height: 50vh;
-    width: 30vw;
-    object-fit: cover;
-    transform: translateY(-20px);
+
+.image-class img {
+  position: absolute;
+  margin-left: -25%;
+  height: 50vh;
+  width: 30vw;
+  object-fit: cover;
+  transform: translateY(-20px);
 }
 
 .col-md-12 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-#green-car{
-    width: 80vw;
-    height: 100vh;
-    object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.small-image{
-    width: 11.5vw;
-    height: 20vh;
-    overflow: hidden;
-    margin-top: -8%;
-    margin-left: 2%;
+#green-car {
+  width: 80vw;
+  height: 100vh;
+  object-fit: cover;
 }
 
-.small-image img{
-    width: 100%; 
-    height: 100%;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid #1c6d3a;
+.small-image {
+  width: 11.5vw;
+  height: 20vh;
+  overflow: hidden;
+  margin-top: -8%;
+  margin-left: 2%;
+}
+
+.small-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #1c6d3a;
 }
 
 
-#request-button button{
-    color: #ffffff;
-    background-color: #1A4204;
-    margin-bottom: 3%;
-    padding: 8px, 2px ;
-    box-shadow: 0 19px 38px 0 rgba(0, 0, 0, 0.5);
-    font-family: 'Roboto Slab', serif;
-    font-size: 2vh;
+#request-button button {
+  color: #ffffff;
+  background-color: #1A4204;
+  margin-bottom: 3%;
+  padding: 8px, 2px;
+  box-shadow: 0 19px 38px 0 rgba(0, 0, 0, 0.5);
+  font-family: 'Roboto Slab', serif;
+  font-size: 2vh;
 
 
 }
- 
+
+.round-circle {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: #1A4204;
+  position: absolute;
+  bottom: 25%;
+
+}
+
+.backgrounded-car {
+  /* width: 16vw;
+  height: 30vh;
+  border-radius: 50%;
+  overflow: hidden;
+  top: 50%; */
+
+}
+
+.backgrounded-car img {
+  /* width: 100%;
+  height: 100%; */
+  width: 11vw;
+  height: 21vh;
+  object-fit: cover;
+  border: 3px solid #1B4604;
+  border-radius: 50%;
+}
