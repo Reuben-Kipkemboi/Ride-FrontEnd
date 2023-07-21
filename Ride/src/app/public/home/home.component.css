@@ -11,14 +11,20 @@ h1 {
   font-family: 'Freehand', cursive;
   text-align: center;
   font-size: 10vh;
+  color: #000000;
+  position: absolute;
 }
 
 h1 span {
-  color: #1c6d3a;
+  /* color: #1c6d3a; */
+  color: #1B4604;
 }
 
 .row-one {
   margin-top: 5%;
+}
+.row-two{
+    /* margin-top: -1%; */
 }
 
 /* .image-class{
@@ -110,4 +116,5 @@ h1 span {
   object-fit: cover;
   border: 3px solid #1B4604;
   border-radius: 50%;
+  position: absolute;
 }
