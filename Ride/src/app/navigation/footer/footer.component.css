@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
-
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+/* @import '~mdb-angular-ui-kit/css/mdb.min.css'; */
 
 *{
     font-family: 'Freehand', cursive;
