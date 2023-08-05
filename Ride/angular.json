@@ -25,7 +25,6 @@
               "src/assets"
             ],
             "styles": [
-              "node_modules/mdb-ui-kit/css/mdb.min.css",
               "src/styles.css"
             ],
             "scripts": [
