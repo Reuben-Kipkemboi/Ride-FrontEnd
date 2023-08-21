@@ -1,7 +1,8 @@
 .navbar{
     background-color: var(--background);
-    height: 60px; 
-    color: black;
+    height: 7.5vh; 
+    color: #1A4204;
+    font-weight: bold;
 }
 .navbar-nav{
     color: black;
