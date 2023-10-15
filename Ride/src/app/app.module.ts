@@ -10,6 +10,7 @@ import { HomeComponent } from './public/home/home.component';
 import { CustomsComponent } from './public/customs/customs.component';
 import { PartsComponent } from './public/parts/parts.component';
 import { TestimonialsComponent } from './public/testimonials/testimonials.component';
+import { ContactComponent } from './public/contact/contact.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { TestimonialsComponent } from './public/testimonials/testimonials.compon
     HomeComponent,
     CustomsComponent,
     PartsComponent,
-    TestimonialsComponent
+    TestimonialsComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
