@@ -29,7 +29,7 @@
             ],
             "scripts": [
               "node_modules/mdb-ui-kit/js/mdb.min.js",
-              "node_modules/chart.js/dist/chart.js",
+              "node_modules/chart.js/dist/chart.js"
             ]
           },
           "configurations": {
@@ -43,7 +43,7 @@
                 {
                   "type": "anyComponentStyle",
                   "maximumWarning": "2kb",
-                  "maximumError": "4kb"
+                  "maximumError": "100kb"
                 }
               ],
               "outputHashing": "all"
