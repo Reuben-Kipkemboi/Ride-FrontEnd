@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import '~mdb-angular-ui-kit/css/mdb.min.css'; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+
+:root{
+    --background: #DBF6F2;
+    --primary-button: #1A4204;
+}
+
+/* :root {
+    --text: #082014;
+    --background: #dbf6e8;
+    --primary-button: #c7337f;
+    --secondary-button: #a4ebc7;
+    --accent: #c7337f;
+    --navbar-height: 60px;
+  } */
