@@ -1,0 +1,75 @@
+*{
+    color: #0a1c07;;
+}
+.call-center{
+    text-align: center;
+    object-fit: cover;
+    
+}
+.forms{
+    background-color: #e9f9e7;
+    padding: 4vh;
+}
+.form-control{
+    outline: 1.5px solid #1C6D3A;
+    background-color: #fff;
+}
+.contact-card{
+    background-color: #dbf6f2;
+}
+.icons{
+    padding-left: 1vh;
+    height: 6vh;
+    width: 3vw;
+    border-radius: 50%;
+    outline: 3px solid #1C6D3A;
+    background-color: #fff;
+}
+.icons i{
+    padding-left: 0.2vw;
+    padding-top: 1vh;
+    text-align: center;
+    color: #1C6D3A;
+    /* outline: 1px solid #1C6D3A; */
+}
+
+.icons-3{
+    height: 6vh;
+    width: 3vw;
+    border-radius: 50%;
+    outline: 3px solid #1C6D3A;
+    background-color: #fff; 
+}
+#envelope{
+    padding-top: 1vh;
+    text-align: center;
+    color: #1C6D3A;
+    margin-left: -0.4vw;
+
+}
+.heading{
+    font-weight: bold;
+    color: #0a1c07;
+}
+.subheading{
+    font-size: 2vh;
+}
+.fa-envelope{
+    padding: 0;
+}
+#phone{
+    padding-top: 1vh;
+    text-align: center;
+    color: #1C6D3A;
+    margin-left: -0.3vw;
+}
+.get{
+    font-weight: bold;
+}
+.description{
+    font-size:2vh;
+}
+#button{
+    background-color: #1c6d3a;
+    color: #fff;
+}
