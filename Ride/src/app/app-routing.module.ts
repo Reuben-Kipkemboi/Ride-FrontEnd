@@ -12,7 +12,7 @@ const routes: Routes = [
   { path: 'customs', component: CustomsComponent },
   { path: 'parts', component: PartsComponent },
   { path: 'testimonials', component: TestimonialsComponent },
-  { path: 'testimonials', component: ContactComponent },
+  { path: 'contact-us', component: ContactComponent },
   { path: '**', redirectTo: '' },
  
 ];
