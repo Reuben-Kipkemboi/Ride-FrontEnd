@@ -3,6 +3,11 @@
 * {
   font-family: 'Freehand', cursive;
 }
+.btn{
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+     -moz-box-shadow: 0 10px 6px -6px #777;
+          box-shadow: 0 10px 6px -6px #777;
+}
 .footer {
     background-color: #DBF6F2;
     padding: 1%;
