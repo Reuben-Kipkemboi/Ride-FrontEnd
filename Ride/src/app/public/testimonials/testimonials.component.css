@@ -1,4 +1,4 @@
-.gradient-custom {
+/* .gradient-custom {
   background: radial-gradient(50% 123.47% at 50% 50%, #071c1a 0%, #1c6d3a 100%),
     linear-gradient(121.28deg, #1c6d3a 0%, #0a1c07 100%),
     linear-gradient(360deg, #e9f9e7 0%, #dbf6f2 100%),
@@ -6,7 +6,7 @@
     radial-gradient(100% 148.07% at 0% 0%, #1c6d3a 0%, #dbf6f2 100%);
   background-blend-mode: screen, color-dodge, overlay, difference, normal;
 
-}
+} */
 
 .carousel-indicators{
     color:#1c6d3a;
