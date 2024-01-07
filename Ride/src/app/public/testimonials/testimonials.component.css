@@ -7,6 +7,9 @@
   background-blend-mode: screen, color-dodge, overlay, difference, normal;
 
 } */
+.gradient-custom{
+  background: #dbf6f2;
+}
 
 .carousel-indicators{
     color:#1c6d3a;
